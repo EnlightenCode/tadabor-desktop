@@ -28,7 +28,7 @@
     "@electron-forge/maker-rpm": "^6.0.5",
     "@electron-forge/maker-squirrel": "^6.0.5",
     "@electron-forge/maker-zip": "^6.0.5",
-    "@electron-forge/plugin-webpack": "^6.0.5",
+    "@electron-forge/plugin-webpack": "^6.2.1",
     "@electron-forge/publisher-github": "^6.0.5",
     "@types/bootstrap": "^5.2.6",
     "@types/react": "^18.2.8",
