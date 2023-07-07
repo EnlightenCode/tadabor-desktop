@@ -60,7 +60,7 @@
     "dexie": "^3.2.4",
     "electron-context-menu": "^3.6.1",
     "electron-squirrel-startup": "^1.0.0",
-    "i18next": "^22.5.0",
+    "i18next": "^23.2.8",
     "i18next-browser-languagedetector": "^7.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
